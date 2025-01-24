@@ -1,0 +1,46 @@
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+config.php
+
+# Cache and logs 
+/logs/
+*.log
+/temp/
+/cache/
+
+# Uploaded files
+/uploads/
+/public/uploads/
+
+# Build artifacts
+/dist/
+/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database
+*.sql
+*.sqlite
+*.db
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Project-specific
+/storage/*.key
