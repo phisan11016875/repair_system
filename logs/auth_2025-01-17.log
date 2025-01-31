@@ -1,0 +1,12 @@
+[2025-01-17 09:30:03] [FAILED] [IP: ::1] [User: Guest] [LOGIN] User 'user' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-17 09:30:13] [SUCCESS] [IP: ::1] [User: 6] [LOGIN] User 'usertest' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-17 09:30:40] [SUCCESS] [IP: ::1] [User: 7] [LOGIN] User 'technic1' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-17 09:30:59] [SUCCESS] [IP: ::1] [User: 1] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+

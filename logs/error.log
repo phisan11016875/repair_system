@@ -1,0 +1,99 @@
+[15-Jan-2025 08:19:53 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 08:19:53 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\login.php(12): Database->getConnection()
+#1 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[15-Jan-2025 10:07:10 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:10 Europe/Berlin] Error: ไม่สามารถเชื่อมต่อฐานข้อมูลได้
+[15-Jan-2025 10:07:10 Europe/Berlin] PHP Warning:  Undefined variable $assets in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 85
+[15-Jan-2025 10:07:10 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 85
+[15-Jan-2025 10:07:10 Europe/Berlin] PHP Warning:  Undefined variable $departments in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 111
+[15-Jan-2025 10:07:10 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 111
+[15-Jan-2025 10:07:10 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:10 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\api\get_recent_moves.php(11): Database->getConnection()
+#1 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[15-Jan-2025 10:07:13 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:13 Europe/Berlin] Error: ไม่สามารถเชื่อมต่อฐานข้อมูลได้
+[15-Jan-2025 10:07:13 Europe/Berlin] PHP Warning:  Undefined variable $assets in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 85
+[15-Jan-2025 10:07:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 85
+[15-Jan-2025 10:07:13 Europe/Berlin] PHP Warning:  Undefined variable $departments in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 111
+[15-Jan-2025 10:07:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 111
+[15-Jan-2025 10:07:13 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:13 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\api\get_recent_moves.php(11): Database->getConnection()
+#1 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[15-Jan-2025 10:07:14 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:14 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\classes\AssetManagement.php(7): Database->getConnection()
+#1 F:\xampp8.2\htdocs\repair_system\admin\manage_assets.php(9): AssetManagement->__construct()
+#2 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[15-Jan-2025 10:07:30 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:30 Europe/Berlin] Error: ไม่สามารถเชื่อมต่อฐานข้อมูลได้
+[15-Jan-2025 10:07:30 Europe/Berlin] PHP Warning:  Undefined variable $assets in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 85
+[15-Jan-2025 10:07:30 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 85
+[15-Jan-2025 10:07:30 Europe/Berlin] PHP Warning:  Undefined variable $departments in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 111
+[15-Jan-2025 10:07:30 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in F:\xampp8.2\htdocs\repair_system\admin\move_assets.php on line 111
+[15-Jan-2025 10:07:30 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:30 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\api\get_recent_moves.php(11): Database->getConnection()
+#1 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[15-Jan-2025 10:07:31 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[15-Jan-2025 10:07:31 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\classes\AssetManagement.php(7): Database->getConnection()
+#1 F:\xampp8.2\htdocs\repair_system\admin\dashboard.php(14): AssetManagement->__construct()
+#2 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[16-Jan-2025 02:29:53 Europe/Berlin] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'hkhospital_pisan'@'localhost' (using password: YES)
+[16-Jan-2025 02:29:53 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ไม่สามารถเชื่อมต่อฐานข้อมูลได้ in F:\xampp8.2\htdocs\repair_system\config\database.php:21
+Stack trace:
+#0 F:\xampp8.2\htdocs\repair_system\login.php(12): Database->getConnection()
+#1 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\config\database.php on line 21
+[16-Jan-2025 02:31:27 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[16-Jan-2025 02:33:32 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[16-Jan-2025 02:33:32 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #2 ($precision) of type int is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[16-Jan-2025 02:33:47 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[16-Jan-2025 02:33:48 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[16-Jan-2025 02:34:05 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[16-Jan-2025 02:34:13 Europe/Berlin] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in F:\xampp8.2\htdocs\repair_system\classes\RepairManagement.php on line 234
+[17-Jan-2025 05:09:10 Europe/Berlin] PHP Warning:  Undefined variable $conn in F:\xampp8.2\htdocs\repair_system\register.php on line 55
+[17-Jan-2025 05:09:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in F:\xampp8.2\htdocs\repair_system\register.php:55
+Stack trace:
+#0 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\register.php on line 55
+[17-Jan-2025 05:09:28 Europe/Berlin] PHP Warning:  Undefined variable $conn in F:\xampp8.2\htdocs\repair_system\register.php on line 55
+[17-Jan-2025 05:09:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in F:\xampp8.2\htdocs\repair_system\register.php:55
+Stack trace:
+#0 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\register.php on line 55
+[17-Jan-2025 09:18:54 Europe/Berlin] PHP Warning:  Undefined variable $conn in F:\xampp8.2\htdocs\repair_system\register.php on line 55
+[17-Jan-2025 09:18:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in F:\xampp8.2\htdocs\repair_system\register.php:55
+Stack trace:
+#0 {main}
+  thrown in F:\xampp8.2\htdocs\repair_system\register.php on line 55
+[17-Jan-2025 15:44:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '?' in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/Logger.php on line 28
+[20-Jan-2025 09:09:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '?' in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/Logger.php on line 28
+[20-Jan-2025 09:11:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/Logger.php on line 17
+[20-Jan-2025 14:21:06 Asia/Bangkok] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[20-Jan-2025 14:21:06 Asia/Bangkok] PHP Fatal error:  Uncaught exception 'Exception' with message 'ไม่สามารถเชื่อมต่อฐานข้อมูลได้' in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/Database.php:26
+Stack trace:
+#0 /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/UserManagement.php(9): Database->getConnection()
+#1 /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/admin/manage_users.php(13): UserManagement->__construct()
+#2 {main}
+  thrown in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/Database.php on line 26
+[21-Jan-2025 09:35:00 Asia/Bangkok] PHP Fatal error:  Class 'Database' not found in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/RepairManagement.php on line 8
+[21-Jan-2025 09:47:47 Asia/Bangkok] PHP Fatal error:  Class 'Database' not found in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/RepairManagement.php on line 8
+[21-Jan-2025 09:58:58 Asia/Bangkok] PHP Fatal error:  Class 'Database' not found in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/RepairManagement.php on line 8
+[21-Jan-2025 10:01:11 Asia/Bangkok] PHP Warning:  require_once(/home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classesDatabase.php): failed to open stream: No such file or directory in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/RepairManagement.php on line 8
+[21-Jan-2025 10:01:11 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required '/home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classesDatabase.php' (include_path='.:/usr/local/php56/lib/php') in /home/hkhospital/domains/huaikoenghospital.moph.go.th/public_html/repair_system/classes/RepairManagement.php on line 8

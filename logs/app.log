@@ -1,0 +1,105 @@
+[2025-01-20 09:24:48] [SUCCESS] [IP: 125.25.153.123] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 14:59:12] [SUCCESS] [IP: 125.25.153.123] [User: 5] [LOGIN] User 'technic' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 15:14:20] [FAILED] [IP: 125.25.153.123] [User: Guest] [LOGIN] User 'ีuser' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 15:14:30] [FAILED] [IP: 125.25.153.123] [User: Guest] [LOGIN] User 'ีuser' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 15:15:37] [SUCCESS] [IP: 125.25.153.123] [User: 4] [LOGIN] User 'user' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 15:29:36] [SUCCESS] [IP: 125.25.153.123] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 15:44:55] [SUCCESS] [IP: 125.25.153.123] [User: 4] [LOGIN] User 'user' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 16:11:03] [SUCCESS] [IP: 125.25.153.123] [User: 5] [LOGIN] User 'technic' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-20 18:01:10] [SUCCESS] [IP: 1.2.151.135] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36
+
+[2025-01-21 08:48:45] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 08:50:15] [SUCCESS] [IP: 1.0.233.76] [User: 5] [LOGIN] User 'technic' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 09:02:50] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 09:16:17] [FAILED] [IP: 1.0.233.76] [User: Guest] [LOGIN] User 'technic' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 09:16:25] [SUCCESS] [IP: 1.0.233.76] [User: 5] [LOGIN] User 'technic' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 09:16:53] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:45:52] [FAILED] [IP: 58.136.170.149] [User: Guest] [LOGIN] User 'OR '1'='1'' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:46:03] [FAILED] [IP: 58.136.170.149] [User: Guest] [LOGIN] User 'admin' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:47:23] [FAILED] [IP: 58.136.170.149] [User: Guest] [LOGIN] User 'admin' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:47:33] [FAILED] [IP: 58.136.170.149] [User: Guest] [LOGIN] User 'admin' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:47:37] [SUCCESS] [IP: 58.136.170.149] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:50:57] [FAILED] [IP: 1.0.233.76] [User: Guest] [LOGIN] User 'phisan' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:51:07] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:53:24] [FAILED] [IP: 1.0.233.76] [User: Guest] [LOGIN] User 'technic' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 10:53:30] [SUCCESS] [IP: 1.0.233.76] [User: 5] [LOGIN] User 'technic' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 11:09:41] [FAILED] [IP: 110.49.6.6] [User: Guest] [LOGIN] User 'admin' logged in. Invalid username or password
+User Agent: Mozilla/5.0 (Linux; Android 14; SM-X216B Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.260 Safari/537.36 Line/15.0.0/IAB
+
+[2025-01-21 11:20:10] [SUCCESS] [IP: 1.0.233.76] [User: 6] [REGISTER] New user registration: phisan
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 11:20:26] [SUCCESS] [IP: 1.0.233.76] [User: 6] [LOGIN] User 'phisan' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 11:22:54] [SUCCESS] [IP: 110.49.6.6] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Linux; Android 14; SM-X216B Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.260 Safari/537.36 Line/15.0.0/IAB
+
+[2025-01-21 11:28:17] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 11:32:44] [SUCCESS] [IP: 110.49.6.6] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+[2025-01-21 11:34:59] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-21 14:38:57] [SUCCESS] [IP: 1.0.233.76] [User: 3] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-22 07:58:43] [SUCCESS] [IP: ::1] [User: 6] [LOGIN] User 'user' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-22 07:59:53] [SUCCESS] [IP: ::1] [User: 1] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+[2025-01-29 05:07:38] [SUCCESS] [IP: ::1] [User: 1] [LOGIN] User 'admin' logged in. 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+

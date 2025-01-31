@@ -1,0 +1,132 @@
+/* ธีมหลัก */
+body {
+    font-family: 'Sarabun', sans-serif;
+    background-color: #f4f6f9;
+}
+
+/* การ์ด */
+.card {
+    box-shadow: 0 0 1px rgba(0,0,0,.125), 0 1px 3px rgba(0,0,0,.2);
+    margin-bottom: 1rem;
+}
+
+.card-header {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    padding: .75rem 1.25rem;
+}
+
+/* ปุ่มและแบดจ์ */
+.btn {
+    margin-right: .25rem;
+}
+
+.badge {
+    font-weight: 500;
+    padding: .35em .65em;
+}
+
+.badge-status {
+    font-size: 0.9em;
+    padding: 5px 10px;
+}
+
+/* ตาราง */
+.table th {
+    border-top: 0;
+    background-color: #f8f9fa;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(0,0,0,.02);
+}
+
+/* ฟอร์ม */
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+/* Select2 Custom Styles */
+.select2-container--bootstrap4 .select2-selection--single {
+    height: calc(2.25rem + 2px) !important;
+}
+
+.select2-container--bootstrap4 .select2-selection--single .select2-selection__rendered {
+    line-height: calc(2.25rem + 2px) !important;
+}
+
+/* Timeline Custom Styles */
+.timeline {
+    position: relative;
+    padding: 20px 0;
+}
+
+.timeline-item {
+    position: relative;
+    padding: 15px 30px;
+    border-left: 2px solid #007bff;
+    margin-bottom: 20px;
+}
+
+.timeline-item:before {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 20px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: #007bff;
+}
+
+.timeline-date {
+    color: #6c757d;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+/* Alert Custom Styles */
+.alert {
+    border: 0;
+    border-radius: 3px;
+    position: relative;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.alert-dismissible .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: .75rem 1.25rem;
+}
+
+/* Loading Spinner */
+.loading-spinner {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid rgba(0,0,0,.1);
+    border-left-color: #007bff;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Responsive Utilities */
+@media (max-width: 768px) {
+    .card-body {
+        padding: 1rem;
+    }
+    
+    .table-responsive {
+        margin-bottom: 1rem;
+    }
+    
+    .timeline-item {
+        padding: 10px 20px;
+    }
+}
